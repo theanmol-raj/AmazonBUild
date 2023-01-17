@@ -1,5 +1,5 @@
 import React from 'react'
-// import ProductProps from '../typings'
+import ProductProps from '../typings'
 
 
 
